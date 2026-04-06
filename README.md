@@ -55,4 +55,9 @@ aportando valor a proyectos reales que le solucionen un problema a las personas
 
 ## 📫 Contacto
 
-contacto@agustingiungi.com.ar
+📩 [contacto@agustingiungi.com.ar](mailto:contacto@agustingiungi.com.ar)
+💼 [LinkedIn](https://www.linkedin.com/in/agustin-giungi)
+
+
+
+
