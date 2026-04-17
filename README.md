@@ -1,6 +1,6 @@
 # 👋 Hola, soy Agustín, Analista en Sistemas 
 
-💻  Enfocado en backend y desarrollo de sistemas que apunten a crear soluciones reales, no solo código, con ganas de seguir aprendiendo y crecer en la industria 
+💻  Enfocado en backend y desarrollo de sistemas y en en crear soluciones reales, no solo código, con ganas de seguir aprendiendo y crecer en la industria 
 aportando valor a proyectos reales que le solucionen un problema a las personas
 
 
