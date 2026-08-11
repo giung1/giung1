@@ -53,12 +53,6 @@ Plataforma Web Comercial: Desarrollo y despliegue de soluciones web optimizadas 
 
 * MySQL / PostgreSQL
 
----
-
-## 📈 Filosofía
-
-> Prefiero un sistema simple que funcione bien
-> antes que algo complejo que nadie entienda
 
 ---
 
