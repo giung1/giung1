@@ -9,7 +9,7 @@ aportando valor a proyectos reales que le solucionen un problema a las personas
 ## 🧠 Sobre mí
 
 * 🛠️ Actualmente trabajando como freelance
-* 🎓 Estudiante avanzado de Licenciatura en Sistemas (a 2 materias y Tesis de grado)
+* 🎓 Estudiante avanzado de Licenciatura en Sistemas
 * 🌐 Experiencia en todo el proceso de desarrollo: Diseño de APIs stateless, despliegues sobre VPS Linux, configuración de Reverse Proxies (Nginx), seguridad perimetral y configuracion de disaster recovery.
 * ⚡ Me interesa la optimización, seguridad y performance
 * 🔍 Siempre metiéndome a entender cómo funcionan las cosas por dentro
